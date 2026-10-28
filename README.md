@@ -30,5 +30,10 @@
 
 # \- git push
 
-# Git Basics Lab
+Git Basics Lab
+
+## Progress
+===
+
+# I have completed the initial Git setup.
 
